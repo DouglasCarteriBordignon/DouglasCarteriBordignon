@@ -2,8 +2,8 @@
 
 
 - 🔭 Hoje trabalho como desenvolvedor Full Stack em praticamente todas as plataformas.
-- ⚡ Conhecimento avançado em Flutter(Dart)
-- 🌱 Estudando atualmente Python.
+- ⚡ Conhecimento avançado em Flutter(Dart).
+- 🌱 Estudando atualmente Python e mongoDB.
 
 <div align="center">
   <a href="https://github.com/douglascarteribordignon">
