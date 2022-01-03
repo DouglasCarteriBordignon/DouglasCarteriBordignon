@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/douglascarteribordignon">
-  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=douglascarteribordignon&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglascarteribordignon&layout=compact&langs_count=7&theme=darcula"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=douglascarteribordignon&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglascarteribordignon&layout=compact&langs_count=7&theme=darcula"/>
 </div>
   
   </div>
@@ -37,6 +37,8 @@
 
 
 <!--
+
+width="450em"
 
 ### Hi there 👋
 
