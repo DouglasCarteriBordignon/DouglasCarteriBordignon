@@ -1,9 +1,9 @@
 ### Olá! Eu sou o Douglas Carteri Bordignon 👋
 
 
-- 🔭 Hoje trabalho como desenvolvedor Full Stack multiplataforma.
+- 🔭 Trabalho como desenvolvedor Full Stack em múltiplas plataformas.
 - ⚡ Conhecimento avançado em Flutter(Dart).
-- 🌱 Estudando atualmente Python e mongoDB.
+- 🌱 Estudando Python e mongoDB.
 
 <div align="center">
   <a href="https://github.com/douglascarteribordignon">
