@@ -2,7 +2,7 @@
 
 
 - 🔭 Trabalho como desenvolvedor Full Stack em múltiplas plataformas.
-- ⚡ Conhecimento avançado em Flutter(Dart).
+- ⚡ Conhecimento em Flutter(Dart) | Hasura | Firebase.
 - 🌱 Estudando Python e mongoDB.
 
 <div align="center">
