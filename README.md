@@ -2,8 +2,8 @@
 
 
 - 🔭 Trabalho como desenvolvedor Full Stack em múltiplas plataformas.
-- ⚡ Conhecimento em Flutter(Dart) | Hasura | Firebase.
-- 🌱 Estudando Python | Next.js | WhatsApp Marketing | mongoDB.
+- ⚡ Conhecimento em Dart (Flutter) | HTML | CSS | JavaScript e Python.
+- 🌱 Estudando Next.js | Nest.js e automação de marketing em geral.
 
 <div align="center">
   <a href="https://github.com/douglascarterbor">
