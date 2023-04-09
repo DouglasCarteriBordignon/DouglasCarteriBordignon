@@ -4,6 +4,7 @@
 - 🔭 Trabalho como desenvolvedor Full Stack em múltiplas plataformas.
 - ⚡ Conhecimento em Dart (Flutter) | HTML | CSS | JavaScript e Python.
 - 🌱 Estudando Next.js | Nest.js e automação de marketing em geral.
+- Obsecado por construir um negócio de sucesso.
 
 <div align="center">
   <a href="https://github.com/douglascarterbor">
