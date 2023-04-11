@@ -1,9 +1,9 @@
 ### Hello! I am Douglas Carteri Bordignon 👋
 
-🔭 I work as a Full Stack developer across multiple platforms.
-⚡ I have knowledge in Dart (Flutter) | HTML | CSS | JavaScript and Python.
-🌱 Currently studying Next.js | Nest.js and marketing automation in general.
-Obsessed with building successful businesses.
+-🔭 I work as a Full Stack developer across multiple platforms.
+-⚡ I have knowledge in Dart (Flutter) | HTML | CSS | JavaScript and Python.
+-🌱 Currently studying Next.js | Nest.js and marketing automation in general.
+- Obsessed with building successful businesses.
 
 <div align="center">
   <a href="https://github.com/douglascarterbor">
